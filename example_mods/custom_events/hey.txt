@@ -1,0 +1,15 @@
+Boyfriend:
+If in Value 1 you put:  BF
+Boyfriend "hey!" animation in activated.
+
+Girlfriend:
+If in Value 1 you put:  GF
+Girlfriend "cheer" animation in activated.
+
+Opponent:
+If in Value 2 you put:  DAD
+Opponent "hey!" animation in activated.
+
+--Script Made By TailsTeZ
+
+

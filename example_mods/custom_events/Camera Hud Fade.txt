@@ -1,0 +1,4 @@
+Hud Fading Event
+
+Value 1: Transparency (0-1)
+Value 2: Duration

@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"saucer",
+			"cube",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"riving",
+			"cube",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"destiny",
+			"cube",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"tordenguden",
+			"cube2",
+			[
+				106,
+				73,
+				213
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "cube",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "a cube is present",
+	"weekName": "weekweekcube",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "start",
+	"startUnlocked": true
+}

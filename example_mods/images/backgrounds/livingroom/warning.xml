@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="warning.png">
+<SubTexture name="NORMAL0000" x="476" y="0" width="218" height="153" frameX="-10" frameY="-7" frameWidth="238" frameHeight="167" />
+<SubTexture name="NORMAL0001" x="476" y="0" width="218" height="153" frameX="-10" frameY="-7" frameWidth="238" frameHeight="167" />
+<SubTexture name="NORMAL0002" x="0" y="0" width="238" height="167" frameX="0" frameY="0" frameWidth="238" frameHeight="167" />
+<SubTexture name="NORMAL0003" x="0" y="0" width="238" height="167" frameX="0" frameY="0" frameWidth="238" frameHeight="167" />
+<SubTexture name="NORMAL0004" x="0" y="167" width="228" height="160" frameX="-5" frameY="-3" frameWidth="238" frameHeight="167" />
+<SubTexture name="NORMAL0005" x="0" y="167" width="228" height="160" frameX="-5" frameY="-3" frameWidth="238" frameHeight="167" />
+<SubTexture name="WARNING!!!0000" x="476" y="153" width="218" height="153" frameX="-10" frameY="-7" frameWidth="238" frameHeight="167" />
+<SubTexture name="WARNING!!!0001" x="476" y="153" width="218" height="153" frameX="-10" frameY="-7" frameWidth="238" frameHeight="167" />
+<SubTexture name="WARNING!!!0002" x="238" y="0" width="238" height="167" frameX="0" frameY="0" frameWidth="238" frameHeight="167" />
+<SubTexture name="WARNING!!!0003" x="238" y="0" width="238" height="167" frameX="0" frameY="0" frameWidth="238" frameHeight="167" />
+<SubTexture name="WARNING!!!0004" x="228" y="167" width="228" height="160" frameX="-5" frameY="-3" frameWidth="238" frameHeight="167" />
+<SubTexture name="WARNING!!!0005" x="228" y="167" width="228" height="160" frameX="-5" frameY="-3" frameWidth="238" frameHeight="167" />
+</TextureAtlas>

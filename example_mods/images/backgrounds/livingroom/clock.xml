@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="clock.png">
+<SubTexture name="anim0000" x="0" y="0" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0001" x="396" y="0" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0002" x="792" y="0" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0003" x="0" y="480" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0004" x="396" y="480" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0005" x="792" y="480" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0006" x="1188" y="0" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0007" x="1188" y="480" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0008" x="0" y="960" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0009" x="396" y="960" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0010" x="396" y="960" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0011" x="792" y="960" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0012" x="1188" y="960" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0013" x="1584" y="0" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0014" x="1584" y="480" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0015" x="1584" y="960" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0016" x="0" y="1440" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0017" x="396" y="1440" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0018" x="792" y="1440" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0019" x="1188" y="1440" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0020" x="1584" y="1440" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0021" x="1980" y="0" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0022" x="1980" y="480" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0023" x="1980" y="960" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0024" x="1980" y="1440" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0025" x="2376" y="0" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+<SubTexture name="anim0026" x="2376" y="480" width="396" height="480" frameX="0" frameY="0" frameWidth="396" frameHeight="480" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+Vignette appear event
+event made by TailsTeZ yeee
+
+Value 1: Duration (Example: 0.5, 1, 1.5, 2...)
+Value 2: Color
+
+Available Colors:
+White: 0 | Black: 1 | Red: 2 | Green: 3 | Blue: 4
+Light Blue: 5 | Yellow: 6 | Pink: 7 | Orange: 8 | Purple: 9
+
+

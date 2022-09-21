@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "explosion"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "retry"
+		},
+		{
+			"offsets": [
+				-40,
+				910
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "bf falls"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DeathAnimation",
+	"position": [
+		-650,
+		50
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		900,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

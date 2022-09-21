@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				8,
+				-10
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singLEFT",
+			"indices": [3,4,5,4,3,2,1,0],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-6,
+				17
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singDOWN",
+			"indices": [2,3,4,3,2,1,0],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-5,
+				-32
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singUP",
+			"indices": [2,3,4,3,2,1,0],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 35,
+			"name": "Right",
+			"indices": [4,5,6,5,4,3,2,1,0]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cube_Phase2",
+	"position": [
+		-300,
+		150
+	],
+	"healthicon": "cube2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		129
+	],
+	"camera_position": [
+		325,
+		200
+	],
+	"sing_duration": 6,
+	"scale": 0.7
+}

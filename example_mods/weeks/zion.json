@@ -1,0 +1,32 @@
+{
+	"storyName": "zion",
+	"difficulties": "normal",
+	"weekBackground": "zion",
+	"hideFreeplay": false,
+	"weekBefore": "weekcube",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"zion",
+			"noob",
+			[
+				0,
+				155,
+				255
+			]
+		]
+	],
+	"weekName": "zion",
+	"hiddenUntilUnlocked": false
+}

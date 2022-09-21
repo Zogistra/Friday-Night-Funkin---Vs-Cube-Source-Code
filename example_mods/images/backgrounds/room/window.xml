@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="window.png">
+<SubTexture name="anim0000" x="0" y="509" width="510" height="490" frameX="-10" frameY="-10" frameWidth="530" frameHeight="509" />
+<SubTexture name="anim0001" x="0" y="509" width="510" height="490" frameX="-10" frameY="-10" frameWidth="530" frameHeight="509" />
+<SubTexture name="anim0002" x="0" y="0" width="530" height="509" frameX="0" frameY="0" frameWidth="530" frameHeight="509" />
+<SubTexture name="anim0003" x="0" y="0" width="530" height="509" frameX="0" frameY="0" frameWidth="530" frameHeight="509" />
+<SubTexture name="anim0004" x="530" y="0" width="520" height="499" frameX="-5" frameY="-5" frameWidth="530" frameHeight="509" />
+<SubTexture name="anim0005" x="530" y="0" width="520" height="499" frameX="-5" frameY="-5" frameWidth="530" frameHeight="509" />
+</TextureAtlas>

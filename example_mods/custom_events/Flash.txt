@@ -1,0 +1,10 @@
+Flash appear event
+
+Value 1: Duration (Example: 0.5, 1, 1.5, 2...)
+Value 2: Color
+
+Available Colors:
+Black: 0 | White: 1 | Red: 2 | Green: 3 | Blue: 4
+Yellow: 5 | Light Blue: 6 | Purple: 7 | Pink: 8 | Orange: 9
+
+
